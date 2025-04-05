@@ -32,7 +32,10 @@ A simple web-based image overlay and text editing tool built with [Fabric.js](ht
 ImageOverlayEditor/
 │
 ├── index.html         # Main application
-├── a4_1.png           # Default background image
+├── a4_1.png           # Default background image (partiture page 1 without lyrics)
+├── a4_2.png           # Background image (partiture page 2 without lyrics)
+├── a4_1.json          # Lyrics of partiture a4_1.png
+├── a4_1.json          # Lyrics of partiture a4_2.png
 └── README.md          # You are here
 ```
 
